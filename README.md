@@ -19,7 +19,7 @@ I'm a software developer
 
 👯‍♀️ I'm looking to collaborate on project
 
-🤔 I'm looking for help with interships
+🤔 I'm looking for help with internship
 
 💬 Ask me about CPP
 
