@@ -15,17 +15,17 @@ I'm a software developer
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently persuing BCA
 
-🧠 I'm currently learning .NET
+🧠 I'm currently learning Nothing
 
 👯‍♀️ I'm looking to collaborate on project
 
 🤔 I'm looking for help with internship
 
-💬 Ask me about CPP
+💬 Ask me about -
 
 📫 How to reach me lghosh857@gmail.com
 
-⚡️ Fun fact : In C++ , “++” is the increment operator.
+⚡️ Fun fact : -
 
 
 ## 🛠 Skills
