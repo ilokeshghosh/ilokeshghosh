@@ -21,11 +21,11 @@
 
 <!-- Connect with me -->
 
-<h3  align="left">Connect with me:</h3>
+<h2  align="left">🔌Connect with me:</h2>
 
 <p  align="left">
 
-<a  href="https://twitter.com/https://twitter.com/i_lokeshghosh"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="https://twitter.com/i_lokeshghosh"  height="30"  width="40"  /></a><a  href="https://linkedin.com/in/https://www.linkedin.com/in/ilokeshghosh/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="https://www.linkedin.com/in/ilokeshghosh/"  height="30"  width="40"  /></a><a  href="https://instagram.com/https://www.instagram.com/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="https://www.instagram.com/"  height="30"  width="40"  /></a><a  href="https://medium.com/https://medium.com/@ghoshlokesh029"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"  alt="https://medium.com/@ghoshlokesh029"  height="30"  width="40"  /></a><a  href="https://leetcode.com/i_am_lokesh/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  alt="https://leetcode.com/i_am_lokesh/"  height="30"  width="40"  /></a><a  href="https://lokeshghosh.netlify.app/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/ilokeshghosh/RESOURCE_WAREHOUSE/main/Logos/icons8-portfolio-64.png"  alt="e"  height="30"  width="40"  /></a>
+<a  href="https://twitter.com/i_lokeshghosh"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="https://twitter.com/i_lokeshghosh"  height="30"  width="40"  /></a><a  href="in/https://www.linkedin.com/in/ilokeshghosh/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="https://www.linkedin.com/in/ilokeshghosh/"  height="30"  width="40"  /></a><a  href="https://www.instagram.com/i_lokeshghosh/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="https://www.instagram.com/"  height="30"  width="40"  /></a><a  href="https://medium.com/https://medium.com/@ghoshlokesh029"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"  alt="https://medium.com/@ghoshlokesh029"  height="30"  width="40"  /></a><a  href="https://leetcode.com/i_am_lokesh/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  alt="https://leetcode.com/i_am_lokesh/"  height="30"  width="40"  /></a><a  href="https://lokeshghosh.netlify.app/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/ilokeshghosh/RESOURCE_WAREHOUSE/main/Logos/icons8-portfolio-64.png"  alt="e"  height="30"  width="40"  /></a>
 
 </p>
 
@@ -67,7 +67,7 @@
 
 <!-- Language and Tools -->
 
-<h2  align="left">Languages and Tools:</h2>
+<h2  align="left">🏎️Languages and Tools:</h2>
 
 <p  align="left">
 
@@ -75,7 +75,7 @@
 
   
   
-
+<h2  align="left">📈GITHUB Stats:</h2>
 <!-- Github Trophy -->
 
 <p  align="left">  <a  href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=ilokeshghosh"  alt="ilokeshghosh"  /></a>  </p>
