@@ -68,7 +68,7 @@
 
   
 
-- ⚡ Fun fact **In JavaScript, the word `"NaN"` stands for `"Not-a-Number`," but If you open your web browser's developer console and type `typeof NaN`, it will return `"number"`**
+- ⚡ Fun fact **In JavaScript, the word `"NaN"` stands for `"Not-a-Number"`, but If you open your web browser's developer console and type `typeof NaN`, it will return `"number"`**
 
   
   
