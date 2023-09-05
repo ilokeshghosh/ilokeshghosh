@@ -26,7 +26,7 @@
 
 <p  align="left">  <img  src="https://komarev.com/ghpvc/?username=ilokeshghosh&label=Profile%20views&color=0e75b6&style=flat"  alt="ilokeshghosh"  />  </p>
 
-### <i class="fa-solid fa-paperclip" style="color: #0058f0;"></i></i> Connect With me:
+### <i class="fa-solid fa-paperclip" style="color: #0058f0;"></i> Connect With me:
 <a href="https://www.linkedin.com/in/ilokeshghosh/"><i class="fa-brands fa-linkedin fa-xl" style="color: #0A66C2;"></i></a>
 <a href="https://www.instagram.com/i_lokeshghosh/"><i class="fa-brands fa-instagram fa-xl" style="color: #E4405F;"></i></a>
 <a href="https://hashnode.com/@ilokeshghosh"><i class="fa-brands fa-hashnode fa-xl" style="color: #2962FF;"></i></a>
