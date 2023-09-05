@@ -1,5 +1,15 @@
+
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
 <p align="center">
-  <img src= "https://raw.githubusercontent.com/ilokeshghosh/RESOURCE_WAREHOUSE/main/Logos/profile.webp">
+  
+  <img src= "https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif">
+
+  <!-- <img src= "https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"> -->
+
+  <!-- <img src= "https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif"> -->
+  
 </p>
 
 <!-- Heading -->
@@ -8,7 +18,7 @@
 
 <h2> 🚀 About Me</h2>
 
-<h3>A passionate developer from India</h3>
+<h3>A passionate Web Developer from India</h3>
 
   
 
@@ -16,18 +26,16 @@
 
 <p  align="left">  <img  src="https://komarev.com/ghpvc/?username=ilokeshghosh&label=Profile%20views&color=0e75b6&style=flat"  alt="ilokeshghosh"  />  </p>
 
+### <i class="fa-solid fa-paperclip" style="color: #0058f0;"></i></i> Connect With me:
+<a href="https://www.linkedin.com/in/ilokeshghosh/"><i class="fa-brands fa-linkedin fa-xl" style="color: #0A66C2;"></i></a>
+<a href="https://www.instagram.com/i_lokeshghosh/"><i class="fa-brands fa-instagram fa-xl" style="color: #E4405F;"></i></a>
+<a href="https://hashnode.com/@ilokeshghosh"><i class="fa-brands fa-hashnode fa-xl" style="color: #2962FF;"></i></a>
+<a href="https://lokeshghosh.tech/"><i class="fa-solid fa-user fa-xl"></i></a>
+<a href="https://www.facebook.com/ilokeshghosh/"><i class="fa-brands fa-facebook fa-xl" style="color: #1877F2;"></i></a>
 
-  
 
-<!-- Connect with me -->
 
-<h2  align="left">🔌Connect with me:</h2>
 
-<p  align="left">
-
-<a  href="https://twitter.com/i_lokeshghosh"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="https://twitter.com/i_lokeshghosh"  height="30"  width="40"  /></a><a  href="https://www.linkedin.com/in/ilokeshghosh/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="https://www.linkedin.com/in/ilokeshghosh/"  height="30"  width="40"  /></a><a  href="https://www.instagram.com/i_lokeshghosh/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="https://www.instagram.com/"  height="30"  width="40"  /></a><a  href="https://medium.com/@ghoshlokesh029"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"  alt="https://medium.com/@ghoshlokesh029"  height="30"  width="40"  /></a><a  href="https://leetcode.com/i_am_lokesh/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  alt="https://leetcode.com/i_am_lokesh/"  height="30"  width="40"  /></a><a  href="https://lokeshghosh.tech/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/ilokeshghosh/RESOURCE_WAREHOUSE/main/Logos/icons8-portfolio-64.png"  alt="e"  height="30"  width="40"  /></a>
-
-</p>
 
   
   
@@ -36,19 +44,19 @@
 
 <!-- Description/About -->
 
-- 🔭 I’m currently working on **Event Buddy(Event Management System)**
+- 🔭 I’m currently working on **My Skills**
 
   
 
-- 🌱 I’m currently learning **Java, DSA, JavaScript**
+- 🌱 I’m currently learning **JavaScript, TailwindCSS**
 
   
 
-- 📝 I regularly write articles on [https://medium.com/@ghoshlokesh029](https://medium.com/@ghoshlokesh029)
+- 📝 I regularly write articles on [https://hashnode.com/@ilokeshghosh](https://hashnode.com/@ilokeshghosh)
 
   
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Web Development**
 
   
 
@@ -56,24 +64,34 @@
 
   
 
-- 📄 Know about my experiences [https://bit.ly/3HTk8QW](https://bit.ly/3HTk8QW)
+- 📄Know about my experiences [https://bit.ly/3HTk8QW](https://bit.ly/3HTk8QW)
 
   
 
-- ⚡ Fun fact **Java was made by an accident**
+- ⚡ Fun fact **In JavaScript, the word `"NaN"` stands for `"Not-a-Number`," but If you open your web browser's developer console and type `typeof NaN`, it will return `"number"`**
 
   
   
 
 <!-- Language and Tools -->
+### Languages
+![HTML](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![javascript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript) ![mysql](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql) ![java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk) ![php](https://img.shields.io/badge/-php-000?style=for-the-badge&logo=php) ![python](https://img.shields.io/badge/-python-000?style=for-the-badge&logo=python) ![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=C) ![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus)
+### Technologies
+![GIT](https://img.shields.io/badge/-GIT-000?style=for-the-badge&logo=git)
+![Tailwindcss](https://img.shields.io/badge/-TailWind_Css-000?style=for-the-badge&logo=tailwindcss)
+![mariadb](https://img.shields.io/badge/-mariadb-000?style=for-the-badge&logo=mariadb)
+![BootStrap](https://img.shields.io/badge/-Bootstarp-000?style=for-the-badge&logo=Bootstrap)
 
-<h2  align="left">🏎️Languages and Tools:</h2>
+### IDE and Tools
+![Github](https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github)
+![gitkraken](https://img.shields.io/badge/-gitkraken-000?style=for-the-badge&logo=gitkraken)
+![visualstudiocode](https://img.shields.io/badge/-vs_code-000?style=for-the-badge&logo=visualstudiocode)
+![intellijidea](https://img.shields.io/badge/-intellij_idea-000?style=for-the-badge&logo=intellijidea)
+![stackblitz](https://img.shields.io/badge/-stackblitz-000?style=for-the-badge&logo=stackblitz)
+![codepen](https://img.shields.io/badge/-codepen-000?style=for-the-badge&logo=codepen)
+![canva](https://img.shields.io/badge/-canva-000?style=for-the-badge&logo=canva)
 
-<p  align="left">
-
-<a  href="https://getbootstrap.com"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt="bootstrap"  width="40"  height="40"/>  </a>  <a  href="https://www.cprogramming.com/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  alt="c"  width="40"  height="40"/>  </a>  <a  href="https://www.w3schools.com/cpp/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"  alt="cplusplus"  width="40"  height="40"/>  </a>  <a  href="https://www.w3schools.com/css/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  alt="css3"  width="40"  height="40"/>  </a>  <a  href="https://git-scm.com/"  target="_blank"  rel="noreferrer">  <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  alt="git"  width="40"  height="40"/>  </a>  <a  href="https://www.w3.org/html/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="html5"  width="40"  height="40"/>  </a>  <a  href="https://www.java.com"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  alt="java"  width="40"  height="40"/>  </a>  <a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="javascript"  width="40"  height="40"/>  </a>  <a  href="https://mariadb.org/"  target="_blank"  rel="noreferrer">  <img  src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"  alt="mariadb"  width="40"  height="40"/>  </a>  <a  href="https://www.mysql.com/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  alt="mysql"  width="40"  height="40"/>  </a>  <a  href="https://www.php.net"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"  alt="php"  width="40"  height="40"/>  </a>  </p>
-
-  
   
 <h2  align="left">📈GITHUB Stats:</h2>
 <!-- Github Trophy -->
