@@ -34,7 +34,7 @@
 <a href="https://lokeshghosh.bio.link/">![biolink](https://img.shields.io/badge/-biolink-000?&style=for-the-badge&logo=biolink&logoColor=EB1928)</a>
 <a href="https://linktr.ee/lokeshghosh">![biolink](https://img.shields.io/badge/-linktree-000?&style=for-the-badge&logo=linktree&logoColor=43E55E)</a>
 <a href="https://hashnode.com/@ilokeshghosh">![hashnode](https://img.shields.io/badge/-hashnode-000?&style=for-the-badge&logo=hashnode&logoColor=2962FF)</a>
-<a href="https://lokeshghosh.tech/">![portfolio](https://img.shields.io/badge/-Portfolio-000?&style=for-the-badge&logo=todoist&logoColor=E44332)</a>
+<a href="https://lokeshghosh.tech/">![portfolio](https://img.shields.io/badge/-Portfolio-000?&style=for-the-badge&logo=kofi&logoColor=F9423A)</a>
 <a href="https://www.instagram.com/i_lokeshghosh/">![instagram](https://img.shields.io/badge/-instagram-000?&style=for-the-badge&logo=instagram&logoColor=E4405F)</a>
 <a href="https://www.facebook.com/ilokeshghosh/">![facebook](https://img.shields.io/badge/-facebook-000?&style=for-the-badge&logo=facebook&logoColor=1877F2)</a>
 
