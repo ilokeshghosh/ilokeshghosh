@@ -54,7 +54,7 @@
 
   
 
-- 🌱 I’m currently learning **JavaScript, TailwindCSS**
+- 🌱 I’m currently learning **React**
 
   
 
@@ -85,6 +85,7 @@
 ![javascript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript) ![mysql](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql) ![java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk) ![php](https://img.shields.io/badge/-php-000?style=for-the-badge&logo=php) ![python](https://img.shields.io/badge/-python-000?style=for-the-badge&logo=python) ![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=C) ![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus)
 ### ⚙️ Technologies
 ![GIT](https://img.shields.io/badge/-GIT-000?style=for-the-badge&logo=git)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React)
 ![Tailwindcss](https://img.shields.io/badge/-TailWind_Css-000?style=for-the-badge&logo=tailwindcss)
 ![mariadb](https://img.shields.io/badge/-mariadb-000?style=for-the-badge&logo=mariadb)
 ![BootStrap](https://img.shields.io/badge/-Bootstarp-000?style=for-the-badge&logo=Bootstrap)
