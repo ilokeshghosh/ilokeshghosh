@@ -54,7 +54,7 @@
 
 - 🔭 I’m currently working on **[Artinest Blogging Platform](https://github.com/ilokeshghosh/artinest)**
 
-- 📁 See all my projects **[👉🏻🔗](https://lokeshghosh.tech/project-landing-page)**  
+- 📁 See all my projects👉🏻 **[🔗](https://lokeshghosh.tech/project-landing-page)**  
 
 - 🌱 I’m currently learning **Redux Tool Kit and Appwrite**
 
