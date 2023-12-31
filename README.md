@@ -52,7 +52,7 @@
 
 <!-- Description/About -->
 
-- 🔭 I’m currently working on **[Recipe Book Project](https://github.com/ilokeshghosh/recipebook-project)**
+- 🔭 I’m currently working on **[moviePad Project](https://github.com/ilokeshghosh/moviePad)**
 
 - 📁 See all my projects👉🏻 **[🔗](https://lokeshghosh.tech/project-landing-page)**  
 
