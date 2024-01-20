@@ -33,7 +33,7 @@
 ### 📎Connect With me:
 
 <a href="https://www.linkedin.com/in/ilokeshghosh/">![linkedIn](https://img.shields.io/badge/-LinkedIn-000?&style=for-the-badge&logo=linkedin&logoColor=0A66C2)</a>
-<a href="https://lokeshghosh.tech/">![portfolio](https://img.shields.io/badge/-Portfolio-000?&style=for-the-badge&logo=kofi&logoColor=F9423A)</a>
+<a href="https://lokeshghosh.vercel.app/">![portfolio](https://img.shields.io/badge/-Portfolio-000?&style=for-the-badge&logo=kofi&logoColor=F9423A)</a>
 <a href="https://lokeshghosh.bio.link/">![biolink](https://img.shields.io/badge/-biolink-000?&style=for-the-badge&logo=biolink&logoColor=EB1928)</a>
 <a href="https://linktr.ee/lokeshghosh">![biolink](https://img.shields.io/badge/-linktree-000?&style=for-the-badge&logo=linktree&logoColor=43E55E)</a>
 <a href="https://hashnode.com/@ilokeshghosh">![hashnode](https://img.shields.io/badge/-hashnode-000?&style=for-the-badge&logo=hashnode&logoColor=2962FF)</a>
@@ -54,9 +54,9 @@
 
 - 🔭 I’m currently working on **[moviePad Project](https://github.com/ilokeshghosh/moviePad)**
 
-- 📁 See all my projects👉🏻 **[🔗](https://lokeshghosh.tech/project-landing-page)**  
+- 📁 See all my projects👉🏻 **[🔗](https://lokeshghosh.vercel.app/project-landing-page)**  
 
-- 🌱 I’m currently learning **Redux Tool Kit and Appwrite**
+- 🌱 I’m currently learning **Backend**
 
   
 
