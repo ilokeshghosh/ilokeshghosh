@@ -52,7 +52,7 @@
 
 <!-- Description/About -->
 
-- 🔭 I’m currently working on **[moviePad Project](https://github.com/ilokeshghosh/moviePad)**
+- 🔭 I’m currently working on **[LinkStock Project](https://github.com/harshjiop/Link-stock-FullStack-App)**
 
 - 📁 See all my projects👉🏻 **[🔗](https://lokeshghosh.vercel.app/project-landing-page)**  
 
